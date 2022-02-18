@@ -8,6 +8,7 @@ module.exports = () => {
                 'frontend_connection_interaction.md',
                 'mysql_select_request.md',
                 'mysql_select_response.md'
+                'Test_add.md'
             ]
         }
     ]
